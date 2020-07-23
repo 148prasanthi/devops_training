@@ -7,14 +7,16 @@
   <version>1.0</version>
   <name>Liquor Shop Demo</name>
   <url>https://thinknyx.com</url>
-    
+  
   <properties>
-    <sonar.projectKey>kmayer10_liquor-shop-demo</sonar.projectKey>
-      <sonar.organization>kmayer10</sonar.organization>
-      <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-      <sonar.login>faff74d8cb559ee0ed1500446f12b3918db42332</sonar.login>
-  </properties>
+  <sonar.projectKey>148prasanthi_devops_training</sonar.projectKey>
+  <sonar.organization>148prasanthi</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>190d25e7fb608be5d1279dd7b2d5a82357d4df24</sonar.login>
+</properties>
     
+  
+  
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
